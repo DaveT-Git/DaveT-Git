@@ -4,7 +4,7 @@
 [![R](https://img.shields.io/badge/R-4.2-green)](https://www.r-project.org/)
 [![SAS](https://img.shields.io/badge/SAS-9.4-orange?logo=sas&logoColor=white)](https://www.sas.com/)
 
-Hi, I'm David Terando, a retired U.S. Marine with a passion for leveraging data to solve complex problems. After serving in the military, I pursued and completed a **Master’s in Accounting** and am currently working toward a **Master’s in Data Science**, specializing in **AI optimization and machine learning**.
+Hi, I'm David Terando, a retired U.S. Marine with a passion for leveraging data to solve complex problems. After serving in the military, I pursued and completed a **Master’s in Accounting** and a **Master’s in Data Science**, specializing in **AI optimization and machine learning**. 
 
 This GitHub profile serves as a portfolio for my **class projects** and personal explorations in data science, where I apply cutting-edge techniques in machine learning, AI, and data analysis to real-world challenges.
 
