@@ -13,7 +13,7 @@ This GitHub profile serves as a portfolio for my **class projects** and personal
 - 📚 **Education**:
   - Master's in National Security and Strategic Studies
   - Master’s in Accounting 
-  - Master’s in Data Science (In Progress) with a focus on AI Optimization and Machine Learning
+  - Master’s in Data Science with a focus on AI Optimization and Machine Learning
 - 💻 **Interests**: Building and optimizing AI models, exploring machine learning algorithms, and creating data-driven solutions.
 - 🌟 **Goal**: To bridge my military-honed strategic thinking with advanced data science to create impactful, innovative projects.
 
